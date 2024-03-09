@@ -1,3 +1,9 @@
+# WIP - Test
+This is a clone of the repo cities-skylines-2-mod-template. 
+
+
+
+
 # Cities: Skylines 2 - C# Mod template
 
 This repository template allows you to get started with Cities: Skylines 2 modding easily, all the way to building your mod on commit with GitHub Actions and publishing your mod automatically on Thunderstore.
